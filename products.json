@@ -1,0 +1,46 @@
+[
+    {
+        "id": "1",
+        "title": "Lipstic",
+        "image": "https://novate.ru/files/u31123/Most-Expensive-Lipsticks-11.jpg",
+        "additionalImages": [
+            "https://avatars.mds.yandex.net/get-zen_doc/2408175/pub_5ec69061058db43258ef78a1_5ec6948aab52d94be0adf5fc/scale_1200",
+            "https://novate.ru/files/u31123/Most-Expensive-Lipsticks-4.jpg"
+        ],
+        "description": "Gloss lipstic",
+        "price": 29.99
+    },
+    {
+        "id": "2",
+        "title": "Mascara",
+        "image": "https://www.letu.ua/common/img/uploaded/skuImageFolder/CLQ68AO01GT.jpg",
+        "additionalImages": [
+            "https://www.letu.ua/common/img/uploaded/skuImageFolder/CLQ68AO01GT.jpg",
+            "https://kosmetista.ru/uploads/images/12/07/18/2018/01/02/1ca8e4_lbox.jpg"
+        ],
+        "description": "Black mascara",
+        "price": 19.99
+    },
+    {
+        "id": "3",
+        "title": "Lenses",
+        "image": "https://u.makeup.com.ua/d/dy/dyak6fpanjsn.jpg",
+        "additionalImages": [
+            "https://ligrand.com.ua/image/cache/catalog/tovarynew/tsvetnyelinzi/colorblends/xamethyst-min-550x400w.jpg.pagespeed.ic.P4VOhlplXJ.jpg",
+            "https://ligrand.com.ua/image/cache/catalog/tovarynew/tsvetnyelinzi/colorblends/xturquoise-min-550x400w.jpg.pagespeed.ic.rXFE5tdvds.jpg"
+        ],
+        "description": "Blue, gray",
+        "price": 24.99
+    },
+    {
+        "id": "4",
+        "title": "Powder",
+        "image": "https://vyborok.com/wp-content/uploads/2017/10/7-16.jpg",
+        "additionalImages": [
+            "https://simplerule.ru/upload/medialibrary/6b4/6b4dc7ce0008c77f122e8440235dd9b7.png",
+            "https://markakachestva.ru/uploads/posts/2021-01/croped/1611054859_1_450-450-95-1-h.webp"
+        ],
+        "description": "Pink powder",
+        "price": 34.99
+    }
+]
